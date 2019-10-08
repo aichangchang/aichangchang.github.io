@@ -1,6 +1,6 @@
 # 部署步骤
 
-# 1 拉取代码
+## 1 拉取代码
 
 ```git
 https://github.com/1359338804/lanfeng.git
@@ -30,6 +30,11 @@ https://github.com/aichangchang/aichangchang.github.io.git
 
 ## 4 提交代码
 
+参考文章 
+
+https://dongkelun.com/2019/06/04/vueDeployGithubPages/
+
+https://www.jianshu.com/p/cc053119f119
 
 
 OK👌
