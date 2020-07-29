@@ -40,6 +40,8 @@
     "sparePartsPrice": "USD 6.00/UNIT",
     "id": "Fuel Dispenser",
     "title": "Starlight Series",
+    "price1": "US $1,150 / UNIT",
+    "price2": "1 UNIT (MIN.ORDER)",
     "proSrc": "static/proImages/FuelDispenser/1/Starlight Series.jpg"
   },
   {
@@ -176,6 +178,8 @@
     "id": "Fuel Dispenser",
     "title": "Expedition Series with oil recovery system",
     "sparePartsPrice": "USD 6.00/UNIT",
+    "price1": "US $1,150 / UNIT",
+    "price2": "1 UNIT (MIN.ORDER)",
     "proSrc": "static/proImages/FuelDispenser/4/ExpeditionSerieswithoilrecoverysystem.jpg"
   },
   {
@@ -214,6 +218,8 @@
     "id": "Fuel Dispenser",
     "title": "Expedition Series",
     "sparePartsPrice": "USD 8.00/UNIT",
+    "price1": "US $950 / UNIT",
+    "price2": "1 UNIT (MIN.ORDER)",
     "proSrc": "static/proImages/FuelDispenser/5/ExpeditionSeries.jpg"
   },
   {
