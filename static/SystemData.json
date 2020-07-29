@@ -3,7 +3,8 @@
       {
         "src":"static/proImages/System/CentralControlSystem/CentralControlSystem.jpg",
         "title": "Central Control System",
-        "id": "System"
+        "id": "System",
+        "price": "USD 300.00/UNIT"
       },
       {
         "src":"static/proImages/System/CentralControlSystem/20140425155205_271.jpg"
@@ -16,7 +17,8 @@
     {
       "src":"static/proImages/System/TankMonitorSystem/TankMonitorSystem.jpg",
       "title": "Tank Monitor System",
-      "id": "System"
+      "id": "System",
+      "price": "USD 300.00/UNIT"
     },
     {
       "src":"static/proImages/System/TankMonitorSystem/20140425155650_314.jpg"
