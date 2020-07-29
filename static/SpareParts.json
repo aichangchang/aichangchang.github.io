@@ -18,8 +18,9 @@
 				"Induction motor with aluminium casing. Grade of protection: IP54.",
 				"Continuous running."
 			],
-			"id": "Spare Parts",
-			"title": "DYB Electric Transfer Pump",
+      "id": "Spare Parts",
+      "sparePartsPrice": "USD 6.00/UNIT",
+      "title": "DYB Electric Transfer Pump",
 			"proSrc": "static/proImages/SpareParts/1/DYB Electric Transfer Pump.jpg"
 	},{
 			"src": [
@@ -39,7 +40,8 @@
 				"· Working pressure: 0.6MPa"
 			],
 			"id": "Spare Parts",
-			"title": "Alloy ManHole",
+      "title": "Alloy ManHole",
+      "sparePartsPrice": "USD 6.00/UNIT",
 			"proSrc": "static/proImages/SpareParts/2/Alloy ManHole.jpg"
 	},{
 			"src": [
@@ -51,7 +53,8 @@
 				"Technical Specificatons",
 				"DYB70-AC115 is with UL listed explosion proof motor."
 			],
-			"id": "Spare Parts",
+      "id": "Spare Parts",
+      "sparePartsPrice": "USD 6.00/UNIT",
 			"title": "DYB70-AC115 Electric Transfer Pump Explosion Proof",
 			"proSrc": "static/proImages/SpareParts/3/DYB70-AC115 Electric Transfer Pump Explosion Proof.jpg"
 	},{
@@ -64,7 +67,8 @@
 				"Technical Specificatons",
 				"It is easy to connect to 1\" quick coupling of the drum or tank, with or without flow meter."
 			],
-			"id": "Spare Parts",
+      "id": "Spare Parts",
+      "sparePartsPrice": "USD 6.00/UNIT",
 			"title": "ETP-××A Electric Transfer Pump Unit",
 			"proSrc": "static/proImages/SpareParts/4/ETP-××A Electric Transfer Pump Unit.jpg"
 	},{
@@ -77,7 +81,8 @@
 				"Technical Specificatons",
 				"ETP-B Series Electric Transfer Pump Unit is improved from ETP-××A series,with completely close metal case,andswitch,nozzle holder,automatic nozzle,also manual nozzle,inlet hose or option."
 			],
-			"id": "Spare Parts",
+      "id": "Spare Parts",
+      "sparePartsPrice": "USD 5.00/UNIT",
 			"title": "ETP-××B Electric Transfer Pump Unit",
 			"proSrc": "static/proImages/SpareParts/5/ETP-××B Electric Transfer Pump Unit.jpg"
 	},{
@@ -90,7 +95,8 @@
 				"ETP-15 Mobile Oil Dispenser, together with 90L oil tank, electric gear oil pump, oil nozlle with LCD meter and oil indicator easy to show the show the level of oil in tank, with advantage of compact, convenient, mobile,etc."
 			],
 			"id": "Spare Parts",
-			"title": "ETP-15 Mobile Oil Dispenser",
+      "title": "ETP-15 Mobile Oil Dispenser",
+      "sparePartsPrice": "USD 6.00/UNIT",
 			"proSrc": "static/proImages/SpareParts/6/ETP-15 Mobile Oil Dispenser.jpg"
 	},{
 			"src": [
@@ -103,7 +109,8 @@
 				"FM-30 Flow Meter is to measure the exact quantity of the dispensed fuel.They are designed for non-commercial use only.These flow-meters are reliable,inexpensive,easy to install and simple to calibrate on the workplace.Aluminium metering chamber,1\" thread connection.Mechanical readout device with rotating wheels.Subtotals can be set to zero,total readouts can not."
 			],
 			"id": "Spare Parts",
-			"title": "FM-30L Flow Meter",
+      "title": "FM-30L Flow Meter",
+      "sparePartsPrice": "USD 9.00/UNIT",
 			"proSrc": "static/proImages/SpareParts/7/FM-30L Flow Meter.jpg"
 	},{
 			"src": [
@@ -115,7 +122,8 @@
 				"The gear plate is installed in the base of the mechanical counter to convert meter rotary shaft output to an engineered unit of measure.Changing units of measure is simple since all conversions are made with easily accessible gears."
 			],
 			"id": "Spare Parts",
-			"title": "Gear Plate",
+      "title": "Gear Plate",
+      "sparePartsPrice": "USD 6.00/UNIT",
 			"proSrc": "static/proImages/SpareParts/8/Gear Plate.jpg"
 	},{
 			"src": [
@@ -127,7 +135,8 @@
 				"Technical Specificatons"
 			],
 			"id": "Spare Parts",
-			"title": "GL-2 Filter Holder",
+      "title": "GL-2 Filter Holder",
+      "sparePartsPrice": "USD 7.00/UNIT",
 			"proSrc": "static/proImages/SpareParts/9/GL-2 Filter Holder.jpg"
 	},{
 			"src": [
@@ -140,7 +149,8 @@
 				"Stainless steel strainer,reuse after cleaning."
 			],
 			"id": "Spare Parts",
-			"title": "GL-4 Filter",
+      "title": "GL-4 Filter",
+      "sparePartsPrice": "USD 6.00/UNIT",
 			"proSrc": "static/proImages/SpareParts/10/GL-4 Filter.jpg"
 	},{
 			"src": [
@@ -155,7 +165,8 @@
 				"HS-2B Unrotary Swivels Used for connecting the nozzle and the hose."
 			],
 			"id": "Spare Parts",
-			"title": "HS-2B Swivel",
+      "title": "HS-2B Swivel",
+      "sparePartsPrice": "USD 6.00/UNIT",
 			"proSrc": "static/proImages/SpareParts/11/HS-2B Swivel.jpg"
 	},{
 			"src": [
